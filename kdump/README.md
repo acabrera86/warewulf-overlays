@@ -1,13 +1,6 @@
 ---
 date: 2025-03-05
-category: Warewulf
-draft: true
-tags:
-  - warewulf
-  - kdump
-author:
-  name: Arian Cabrera
-  role: Sr. Customer Support Engineer
+author: Arian Cabrera
 contributors: Stephen Simpson, Howard Van Der Wal 
 title: How to Enable Kdump in Warewulf Nodes
 ---

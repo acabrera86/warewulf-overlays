@@ -1,7 +1,0 @@
-auto_reset_crashkernel yes
-core_collector makedumpfile -l --message-level 7 -d 31
-{{ if .Tags.kdump_nfs_location }}
-nfs {{ .Tags.kdump_nfs_location }}
-{{ else }}
-path /var/crash
-{{ end }}

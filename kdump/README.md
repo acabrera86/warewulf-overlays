@@ -247,6 +247,6 @@ This forces the Linux kernel to crash, and the address-YYYY-MM-DD-HH:MM:SS/vmcor
 
 ## References & related articles
 
-[Kdump docs](https://www.kernel.org/doc/Documentation/kdump/kdump.txt)
-[kdump.conf man page](https://linux.die.net/man/5/kdump.conf)
-[Warewulf documentation](https://warewulf.org/docs/)
+[Kdump docs](https://www.kernel.org/doc/Documentation/kdump/kdump.txt)  
+[kdump.conf man page](https://linux.die.net/man/5/kdump.conf)  
+[Warewulf documentation](https://warewulf.org/docs/)  
